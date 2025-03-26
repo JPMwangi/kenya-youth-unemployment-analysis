@@ -33,5 +33,6 @@ What policies have actually improved employment outcomes?
 Get Involved
 Want to contribute? Fork the repo, run the analysis, and share insights!
 
-📂 Repository: [[GitHub Link](https://github.com/JPMwangi/kenya-youth-unemployment-analysis)]
-📄 Full Analysis & Blog: [[Blog Link](https://jpmwangimukuha.blogspot.com/2025/03/youth-unemployment-kenya-data-driven-approach.html)]
+📂 Repository: [[kenya-youth-unemployment-analysis
+](https://github.com/JPMwangi/kenya-youth-unemployment-analysis)]
+📄 Full Analysis & Blog: [[Youth Unemployment in Kenya: A Data-Driven Approach](https://jpmwangimukuha.blogspot.com/2025/03/youth-unemployment-kenya-data-driven-approach.html)]
