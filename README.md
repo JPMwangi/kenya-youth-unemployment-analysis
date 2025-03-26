@@ -27,5 +27,5 @@ Youth unemployment is a persistent challenge in Kenya, especially among **15-24-
 ## Get Involved  
 Want to contribute? Fork the repo, run the analysis, and share insights!  
 
-📂 **Repository:** [https://github.com/JPMwangi/kenya-youth-unemployment-analysis]
-📄 **Full Analysis & Blog:** [https://jpmwangimukuha.blogspot.com/2025/03/youth-unemployment-kenya-data-driven-approach.html]  
+📂 **[Repository](https://github.com/JPMwangi/kenya-youth-unemployment-analysis)** ||
+📄 **[Full Analysis & Blog](https://jpmwangimukuha.blogspot.com/2025/03/youth-unemployment-kenya-data-driven-approach.html)**
